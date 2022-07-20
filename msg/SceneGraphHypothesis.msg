@@ -1,0 +1,2 @@
+IndividualHypothesis[] individuals
+RelationHypothesis[] relations

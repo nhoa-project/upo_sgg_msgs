@@ -1,0 +1,4 @@
+uint32 lhs_individual_id
+string property_iri
+uint32 rhs_individual_id
+float64 score

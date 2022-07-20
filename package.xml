@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package format="2">
+
+	<name>upo_sgg_msgs</name>
+	<version>0.0.0</version>
+	<description>Scene Graph Generation Messages</description>
+	<maintainer email="famozur@upo.es">Fernando Amodeo</maintainer>
+	<license>MIT</license>
+
+	<buildtool_depend>catkin</buildtool_depend>
+	<depend>std_msgs</depend>
+	<depend>sensor_msgs</depend>
+	<depend>geometry_msgs</depend>
+	<depend>vision_msgs</depend>
+	<build_depend>message_generation</build_depend>
+	<exec_depend>message_runtime</exec_depend>
+
+</package>
