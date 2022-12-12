@@ -13,6 +13,7 @@ add_message_files(FILES
 	IndividualHypothesis.msg
 	RelationHypothesis.msg
 	SceneGraphHypothesis.msg
+	SceneDigest.msg
 
 )
 
