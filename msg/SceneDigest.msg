@@ -1,8 +1,7 @@
 bool person_sitting_on_chair
-bool person_holding_book
+bool person_holding_bottle
 bool person_holding_cup
 bool person_looking_at_tv
-bool person_looking_at_cell_phone
 bool cup_on_table
-bool book_on_table
-bool cell_phone_on_table
+bool bottle_on_table
+bool chair_near_table
